@@ -4,7 +4,7 @@
  answering any type of question. I know it's not an advanced or perfect project, 
  but I wanted to try something new and create this AI assistant."""
 
-#     C A L L I N G   THE  S I R I 
+#     C A L L I N G   THE  " S I R I "
 
 import speech_recognition as sr
 import webbrowser
